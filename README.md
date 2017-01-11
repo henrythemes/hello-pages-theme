@@ -22,10 +22,12 @@ More Info:
 Thanks to the Relative Links plugin, you can link to markdown source files
 and GitHub Pages automatically changes the the link to hypertext (.html) when published e.g.
 
-     [Page Two](two.md)  
-        becomes =>
-     <a href="two.html">Page Two</a>
 
+```
+[Page Two](two.md)  
+        becomes =>
+<a href="two.html">Page Two</a>
+```
 
 Try it. Follow along to [Page Two](two.md) or to [Page Three](three.md).
 
