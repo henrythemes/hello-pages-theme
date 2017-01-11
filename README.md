@@ -10,7 +10,7 @@ Default Layout, and
 Titles from Headings
 you can now publish pages, that is, static (web)sites
 on GitHub without any configuration (that is, `_config.yml`) or
-front matter blocks (that is, `---`...`---`) in your markdown documents.
+front matter blocks (that is, `---` ... `---`) in your markdown documents.
 
 More Info:
 
