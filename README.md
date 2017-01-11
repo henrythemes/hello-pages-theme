@@ -1,20 +1,32 @@
 # Hello, Pages! Theme
 
-GitHub Pages Sample using the new Jekyll plugins for easy publishing, namely 
+
+### Easy Publishing
+
+Thanks to the Jekyll plugins for easy publishing, namely 
 Jekyll Optional Front Matter, 
 Jekyll README Index, 
 Jekyll Default Layout, and 
-Jekyll Titles from Headings.
+Jekyll Titles from Headings
+you can now publish pages, that is, static (web)sites
+on GitHub without any Jekyll configuration (that is, `_config.yml`) or
+front matter blocks in your markdown documents.
 
+More Info:
+
+- [Publishing with GitHub Pages, now as easy as 1, 2, 3](https://github.com/blog/2289-publishing-with-github-pages-now-as-easy-as-1-2-3) by Ben Balter, Dec 8, 2016
 
 ### Relative Links
 
 Thanks to the  Jekyll Relative Links plugin, you can link to markdown source files
 and GitHub Pages automatically changes the the link to hypertext (.html) e.g.
 
-     [Page Two](two.md)  becomes <a href="two.html">Page Two</a>
+     [Page Two](two.md)  
+        becomes =>
+     <a href="two.html">Page Two</a>
 
-Try it. Follow along to [Page Two](two.md).
+
+Try it. Follow along to [Page Two](two.md) or to [Page Three](three.md)
 
 More Info:
 
