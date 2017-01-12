@@ -20,7 +20,7 @@ More Info:
 ### Relative Links
 
 Thanks to the Relative Links plugin, you can link to markdown source files
-and GitHub Pages automatically changes the the link to hypertext (.html) when published e.g.
+and GitHub Pages automatically changes the link to hypertext (.html) when published e.g.
 
 
 ```
@@ -42,10 +42,14 @@ More Info:
 See a live demo @ [`henrythemes.github.io/hello-pages-theme` »](https://henrythemes.github.io/hello-pages-theme)
 
 
-
 ### More Themes
 
-See the [Dr. Jekyll's Themes](https://drjekyllthemes.github.io) directory.
+For more themes in the Hello! series, see:
+
+- [Hello, Jekyll! Theme](https://github.com/henrythemes/hello-jekyll-theme)
+- [Hello, Minima! Theme](https://github.com/henrythemes/hello-minima-theme)
+
+For even more themes see the [Dr. Jekyll's Themes](https://drjekyllthemes.github.io) directory.
 
 
 ## Meta
