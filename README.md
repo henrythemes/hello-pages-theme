@@ -3,10 +3,10 @@
 
 ### Easy 1-2-3 Publishing
 
-Thanks to the new plugins for easy publishing, namely 
-Optional Front Matter, 
-README Index, 
-Default Layout, and 
+Thanks to the new plugins for easy publishing, namely
+Optional Front Matter,
+README Index,
+Default Layout, and
 Titles from Headings
 you can now publish pages, that is, static (web)sites
 on GitHub without any configuration (that is, `_config.yml`) or
@@ -42,6 +42,16 @@ More Info:
 See a live demo @ [`henrythemes.github.io/hello-pages-theme` »](https://henrythemes.github.io/hello-pages-theme)
 
 
+### Version 2.0
+
+Note: For a more "advanced" starter theme, see the
+[Hello, Pages! Theme V2](https://github.com/henrythemes/hello-pages-theme-v2).
+The V2 includes:
+
+- Custom master page layout template in `_layouts` e.g. `page.html`, etc.
+- Shared (common) template/page building blocks using `_includes` e.g. `github.html`, etc.
+- And more
+
 ### More Themes
 
 For more themes in the Hello! series, see:
@@ -56,10 +66,11 @@ For even more themes see the [Dr. Jekyll's Themes](https://drjekyllthemes.github
 
 #### License
 
+![](https://publicdomainworks.github.io/buttons/zero88x31.png)
+
 The Hello, Pages! theme is dedicated to the public domain.
 Use it as you please with no restrictions whatsoever.
 
 #### Questions? Comments?
 
 Post them to the [jekyll talk forum](http://talk.jekyllrb.com). Thanks!
-
